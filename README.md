@@ -1,2 +1,2 @@
 # shooting-NY
-Shoting in New York City dashboard
+Shooting in New York City dashboard
